@@ -213,7 +213,7 @@ class _HomePageState extends State<HomePage> {
                             child: const Text(
                               "Limpar",
                               style: TextStyle(
-                                fontSize: 12,
+                                fontSize: 11,
                                 fontWeight: FontWeight.bold,
                                 color: Colors.black,
                               ),
