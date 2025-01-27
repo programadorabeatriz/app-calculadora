@@ -1,6 +1,6 @@
-# myapp
+# App-Calculadora
 
-A new Flutter project.
+Sistema desenvolvido para o Curso Talento Tech
 
 ## Getting Started
 
